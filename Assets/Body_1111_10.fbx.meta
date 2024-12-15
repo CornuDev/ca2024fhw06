@@ -1,0 +1,1286 @@
+fileFormatVersion: 2
+guid: 30e194ebe48a3df43afc49fd2a963611
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Body_1111_10_mcp' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'MoCap_1113:Spine3' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'MoCap_1113:Neck1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'MoCap_1113:RightHandRing'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'MoCap_1113:RightHandPinky'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'MoCap_1113:RightHandIndex'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'MoCap_1113:RightHandThumb1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'MoCap_1113:LeftHandRing'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'MoCap_1113:LeftHandPinky'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'MoCap_1113:LeftHandIndex'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'MoCap_1113:LeftHandThumb1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Body_1111_10_mcp
+      takeName: Body_1111_10_mcp
+      internalID: -6612614748316727606
+      firstFrame: 180
+      lastFrame: 12854
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.59999996
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: MoCap_1113:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:LeftHandIndex1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:LeftHandIndex2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:LeftHandIndex3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:LeftHandThumb2
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:LeftHandThumb3
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:LeftHandThumb4
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:LeftHandPinky1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:LeftHandPinky2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:LeftHandPinky3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:LeftHandRing1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:LeftHandRing2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:LeftHandRing3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:RightHandIndex1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:RightHandIndex2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:RightHandIndex3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:RightHandThumb2
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:RightHandThumb3
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:RightHandThumb4
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:RightHandPinky1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:RightHandPinky2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:RightHandPinky3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:RightHandRing1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:RightHandRing2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:RightHandRing3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_1113:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Body_1111_10(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:Position
+      parentName: Body_1111_10(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:Hips
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.0000000037252903, y: 0.8250175, z: 0.012307927}
+      rotation: {x: -0.020402428, y: -0.023104178, z: -0.029846562, w: 0.99907917}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:Spine
+      parentName: MoCap_1113:Hips
+      position: {x: -0, y: 0.13266721, z: -0.021762084}
+      rotation: {x: -0.018602913, y: 0.0031576194, z: 0.02582229, w: 0.9994885}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:Spine1
+      parentName: MoCap_1113:Spine
+      position: {x: -0, y: 0.10554699, z: 0}
+      rotation: {x: 0.039618216, y: -0.0031197804, z: 0.011344116, w: 0.9991456}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:Spine2
+      parentName: MoCap_1113:Spine1
+      position: {x: -0, y: 0.10554699, z: 0}
+      rotation: {x: 0.013045546, y: 0.0074281883, z: 0.014110557, w: 0.99978775}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:Spine3
+      parentName: MoCap_1113:Spine2
+      position: {x: -0, y: 0.10554699, z: 0}
+      rotation: {x: 0.0006243952, y: 0.0016294067, z: -0.0035799025, w: 0.9999921}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:Neck
+      parentName: MoCap_1113:Spine3
+      position: {x: -0, y: 0.13570328, z: 0.013570327}
+      rotation: {x: 0.09095692, y: 0.010335329, z: -0.008915245, w: 0.99576133}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:Neck1
+      parentName: MoCap_1113:Neck
+      position: {x: -0, y: 0.037704088, z: 0}
+      rotation: {x: 0.0015793119, y: -0.011383511, z: -0.017705418, w: 0.9997772}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:Head
+      parentName: MoCap_1113:Neck1
+      position: {x: -0, y: 0.037704088, z: 0}
+      rotation: {x: -0.104005106, y: 0.0019165834, z: -0.008856511, w: 0.9945355}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:HeadEnd
+      parentName: MoCap_1113:Head
+      position: {x: -0, y: 0.0972772, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightShoulder
+      parentName: MoCap_1113:Spine3
+      position: {x: -0, y: 0.09693091, z: 0.05048596}
+      rotation: {x: -0.1188653, y: 0.08617739, z: -0.74041605, w: 0.65591806}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightArm
+      parentName: MoCap_1113:RightShoulder
+      position: {x: -0, y: 0.17735939, z: 0}
+      rotation: {x: 0.19730665, y: -0.12520993, z: 0.0068915905, w: 0.97228855}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightForeArm
+      parentName: MoCap_1113:RightArm
+      position: {x: -0, y: 0.29578522, z: 0}
+      rotation: {x: 0.0029503703, y: -0.10328092, z: 0.008942876, w: 0.9946077}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHand
+      parentName: MoCap_1113:RightForeArm
+      position: {x: -0, y: 0.2376678, z: 0}
+      rotation: {x: -0.10939945, y: 0.004227123, z: -0.034153506, w: 0.99340194}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHandMiddle1
+      parentName: MoCap_1113:RightHand
+      position: {x: -0, y: 0.0944795, z: 0}
+      rotation: {x: -0.032686826, y: 0.003814253, z: -0.075300634, w: 0.99661773}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHandMiddle2
+      parentName: MoCap_1113:RightHandMiddle1
+      position: {x: -0, y: 0.051007755, z: 0}
+      rotation: {x: -0.000000115483985, y: 0.000000003026798, z: -0.038935237, w: 0.9992417}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHandMiddle3
+      parentName: MoCap_1113:RightHandMiddle2
+      position: {x: -0, y: 0.032784663, z: 0}
+      rotation: {x: -0.00000046134383, y: -0.000000023433545, z: -0.03945235, w: 0.99922144}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHandMiddle4
+      parentName: MoCap_1113:RightHandMiddle3
+      position: {x: -0, y: 0.019996544, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHandRing
+      parentName: MoCap_1113:RightHand
+      position: {x: 0.0025, y: 0.0025, z: -0.006812648}
+      rotation: {x: -0.061504774, y: -0.096652195, z: -0.018109353, w: 0.993251}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHandRing1
+      parentName: MoCap_1113:RightHandRing
+      position: {x: -0, y: 0.084154546, z: 0}
+      rotation: {x: -0.0020968723, y: 0.0005060359, z: -0.037536204, w: 0.999293}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHandRing2
+      parentName: MoCap_1113:RightHandRing1
+      position: {x: -0, y: 0.0476467, z: 0}
+      rotation: {x: 0.00000041117886, y: 0.00000006105983, z: -0.038592983, w: 0.99925506}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHandRing3
+      parentName: MoCap_1113:RightHandRing2
+      position: {x: -0, y: 0.032284472, z: 0}
+      rotation: {x: 0, y: -0, z: -0.041126188, w: 0.999154}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHandRing4
+      parentName: MoCap_1113:RightHandRing3
+      position: {x: -0, y: 0.01988162, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHandPinky
+      parentName: MoCap_1113:RightHandRing
+      position: {x: 0.0025, y: 0.0025, z: -0.006812648}
+      rotation: {x: -0.079217434, y: -0.054991208, z: -0.027881663, w: 0.99494886}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHandPinky1
+      parentName: MoCap_1113:RightHandPinky
+      position: {x: -0, y: 0.0716904, z: 0}
+      rotation: {x: 0.06675036, y: -0.00015988195, z: 0.011752914, w: 0.99770045}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHandPinky2
+      parentName: MoCap_1113:RightHandPinky1
+      position: {x: -0, y: 0.03862867, z: 0}
+      rotation: {x: -0.00000049918884, y: 0.000000012456438, z: -0.037216946, w: 0.9993072}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHandPinky3
+      parentName: MoCap_1113:RightHandPinky2
+      position: {x: -0, y: 0.025472807, z: 0}
+      rotation: {x: -0.000001995717, y: -0.00000026197193, z: -0.036451586, w: 0.99933547}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHandPinky4
+      parentName: MoCap_1113:RightHandPinky3
+      position: {x: -0, y: 0.018341657, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHandIndex
+      parentName: MoCap_1113:RightHand
+      position: {x: 0.0025, y: 0.0025, z: 0.006812648}
+      rotation: {x: 0.09665589, y: -0.06861009, z: -0.0064460454, w: 0.9929294}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHandIndex1
+      parentName: MoCap_1113:RightHandIndex
+      position: {x: -0, y: 0.09224467, z: 0}
+      rotation: {x: 0.15599209, y: -0.032817915, z: -0.19389775, w: 0.9679841}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHandIndex2
+      parentName: MoCap_1113:RightHandIndex1
+      position: {x: -0, y: 0.0494933, z: 0}
+      rotation: {x: -0.0000003129243, y: -0.000000011175868, z: -0.035936523, w: 0.99935406}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHandIndex3
+      parentName: MoCap_1113:RightHandIndex2
+      position: {x: -0, y: 0.029706182, z: 0}
+      rotation: {x: 0, y: -0, z: -0.02157128, w: 0.9997673}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHandIndex4
+      parentName: MoCap_1113:RightHandIndex3
+      position: {x: -0, y: 0.018180765, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHandThumb1
+      parentName: MoCap_1113:RightHandIndex
+      position: {x: 0.0075, y: 0.0025, z: 0.006812648}
+      rotation: {x: 0.17287649, y: 0.5657318, z: -0.12464715, w: 0.79657036}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHandThumb2
+      parentName: MoCap_1113:RightHandThumb1
+      position: {x: -0, y: 0.062367667, z: 0}
+      rotation: {x: -0.18580797, y: 0.00036412475, z: -0.0476294, w: 0.981431}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHandThumb3
+      parentName: MoCap_1113:RightHandThumb2
+      position: {x: -0, y: 0.040610515, z: 0}
+      rotation: {x: 0.0000018477431, y: 0.0000000671425, z: -0.037880745, w: 0.99928224}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightHandThumb4
+      parentName: MoCap_1113:RightHandThumb3
+      position: {x: -0, y: 0.02490374, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftShoulder
+      parentName: MoCap_1113:Spine3
+      position: {x: -0, y: 0.09693091, z: 0.05048596}
+      rotation: {x: -0.12669648, y: -0.102041855, z: 0.7233643, w: 0.6710288}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftArm
+      parentName: MoCap_1113:LeftShoulder
+      position: {x: -0, y: 0.17735939, z: 0}
+      rotation: {x: 0.18481787, y: 0.03923212, z: -0.03743286, w: 0.9812757}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftForeArm
+      parentName: MoCap_1113:LeftArm
+      position: {x: -0, y: 0.29578522, z: 0}
+      rotation: {x: 0.008435633, y: 0.085591644, z: -0.0050186994, w: 0.996282}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHand
+      parentName: MoCap_1113:LeftForeArm
+      position: {x: -0, y: 0.2376678, z: 0}
+      rotation: {x: -0.049864054, y: 0.0043765986, z: -0.08732487, w: 0.9949215}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHandMiddle1
+      parentName: MoCap_1113:LeftHand
+      position: {x: -0, y: 0.08799587, z: 0}
+      rotation: {x: -0.021340407, y: -0.0034126055, z: 0.07856009, w: 0.99667513}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHandMiddle2
+      parentName: MoCap_1113:LeftHandMiddle1
+      position: {x: -0, y: 0.047692984, z: 0}
+      rotation: {x: 0.0000011287625, y: -0.000000017695122, z: 0.03756514, w: 0.9992942}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHandMiddle3
+      parentName: MoCap_1113:LeftHandMiddle2
+      position: {x: -0, y: 0.030876106, z: 0}
+      rotation: {x: -0.0000004872179, y: -0.00000010910673, z: 0.038401116, w: 0.99926245}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHandMiddle4
+      parentName: MoCap_1113:LeftHandMiddle3
+      position: {x: -0, y: 0.018411286, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHandRing
+      parentName: MoCap_1113:LeftHand
+      position: {x: -0.0025, y: 0.0025, z: -0.008051064}
+      rotation: {x: -0.061367285, y: 0.10885764, z: 0.019462412, w: 0.9919704}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHandRing1
+      parentName: MoCap_1113:LeftHandRing
+      position: {x: -0, y: 0.078307055, z: 0}
+      rotation: {x: 0.0019746826, y: -0.000649452, z: 0.040722433, w: 0.9991684}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHandRing2
+      parentName: MoCap_1113:LeftHandRing1
+      position: {x: -0, y: 0.044321436, z: 0}
+      rotation: {x: -0.0000008428468, y: 0.000000110245296, z: 0.036784273, w: 0.9993233}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHandRing3
+      parentName: MoCap_1113:LeftHandRing2
+      position: {x: -0, y: 0.030378463, z: 0}
+      rotation: {x: -0.00000026410777, y: -0.000000005852688, z: 0.04129823, w: 0.9991469}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHandRing4
+      parentName: MoCap_1113:LeftHandRing3
+      position: {x: -0, y: 0.018305475, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHandPinky
+      parentName: MoCap_1113:LeftHandRing
+      position: {x: -0.0025, y: 0.0025, z: -0.008051064}
+      rotation: {x: -0.08042583, y: 0.051710494, z: 0.026580976, w: 0.9950634}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHandPinky1
+      parentName: MoCap_1113:LeftHandPinky
+      position: {x: -0, y: 0.066324316, z: 0}
+      rotation: {x: 0.071613334, y: 0.0018152401, z: -0.0005950921, w: 0.9974307}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHandPinky2
+      parentName: MoCap_1113:LeftHandPinky1
+      position: {x: -0, y: 0.036195874, z: 0}
+      rotation: {x: 0.00000017881388, y: 0.00000015611289, z: 0.035723332, w: 0.9993617}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHandPinky3
+      parentName: MoCap_1113:LeftHandPinky2
+      position: {x: -0, y: 0.023614775, z: 0}
+      rotation: {x: -0.0000006404406, y: 0.00000017581942, z: 0.036392666, w: 0.9993376}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHandPinky4
+      parentName: MoCap_1113:LeftHandPinky3
+      position: {x: -0, y: 0.016887594, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHandIndex
+      parentName: MoCap_1113:LeftHand
+      position: {x: -0.0025, y: 0.0025, z: 0.008051064}
+      rotation: {x: 0.1004927, y: 0.07094035, z: 0.0048266025, w: 0.9923938}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHandIndex1
+      parentName: MoCap_1113:LeftHandIndex
+      position: {x: -0, y: 0.085418984, z: 0}
+      rotation: {x: 0.18978885, y: 0.025507363, z: 0.13969019, w: 0.97150207}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHandIndex2
+      parentName: MoCap_1113:LeftHandIndex1
+      position: {x: -0, y: 0.04631006, z: 0}
+      rotation: {x: -0.00000005960463, y: 0.000000283122, z: 0.035052575, w: 0.99938554}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHandIndex3
+      parentName: MoCap_1113:LeftHandIndex2
+      position: {x: -0, y: 0.027665677, z: 0}
+      rotation: {x: 0, y: 0, z: 0.027273105, w: 0.99962807}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHandIndex4
+      parentName: MoCap_1113:LeftHandIndex3
+      position: {x: -0, y: 0.016739458, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHandThumb1
+      parentName: MoCap_1113:LeftHandIndex
+      position: {x: -0.0075, y: 0.0025, z: 0.008051064}
+      rotation: {x: 0.1776404, y: -0.5823654, z: 0.13928747, w: 0.78095675}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHandThumb2
+      parentName: MoCap_1113:LeftHandThumb1
+      position: {x: -0, y: 0.056642763, z: 0}
+      rotation: {x: -0.18649648, y: -0.007142451, z: 0.07152314, w: 0.9798227}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHandThumb3
+      parentName: MoCap_1113:LeftHandThumb2
+      position: {x: -0, y: 0.038106646, z: 0}
+      rotation: {x: 0.0000005960462, y: 0.00000008009371, z: 0.037811857, w: 0.99928486}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftHandThumb4
+      parentName: MoCap_1113:LeftHandThumb3
+      position: {x: -0, y: 0.022929458, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightUpLeg
+      parentName: MoCap_1113:Hips
+      position: {x: 0.12825224, y: 0, z: 0}
+      rotation: {x: 0.0610371, y: 0.18174203, z: 0.000118364216, w: 0.98145014}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightLeg
+      parentName: MoCap_1113:RightUpLeg
+      position: {x: -0, y: -0.3982758, z: 0}
+      rotation: {x: 0.036948714, y: -0, z: -0, w: 0.99931717}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightFoot
+      parentName: MoCap_1113:RightLeg
+      position: {x: -0, y: -0.37417376, z: 0}
+      rotation: {x: -0.15932131, y: -0.023930404, z: 0.0025039148, w: 0.9869335}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightForeFoot
+      parentName: MoCap_1113:RightFoot
+      position: {x: -0, y: -0.027165849, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightToeBase
+      parentName: MoCap_1113:RightForeFoot
+      position: {x: -0, y: 0, z: 0.10639008}
+      rotation: {x: 0.25503227, y: -0, z: -0, w: 0.9669326}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RightToeBaseEnd
+      parentName: MoCap_1113:RightToeBase
+      position: {x: -0, y: 0, z: 0.09970724}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftUpLeg
+      parentName: MoCap_1113:Hips
+      position: {x: -0.12825224, y: 0, z: 0}
+      rotation: {x: 0.055375878, y: -0.123160034, z: 0.04535341, w: 0.9898021}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftLeg
+      parentName: MoCap_1113:LeftUpLeg
+      position: {x: -0, y: -0.3982758, z: 0}
+      rotation: {x: 0.041622564, y: -0, z: -0, w: 0.9991334}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftFoot
+      parentName: MoCap_1113:LeftLeg
+      position: {x: -0, y: -0.37417376, z: 0}
+      rotation: {x: -0.11698602, y: 0.046023443, z: 0.0049148235, w: 0.99205446}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftForeFoot
+      parentName: MoCap_1113:LeftFoot
+      position: {x: -0, y: -0.027165849, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftToeBase
+      parentName: MoCap_1113:LeftForeFoot
+      position: {x: -0, y: 0, z: 0.10639008}
+      rotation: {x: 0.24542552, y: -0, z: -0, w: 0.9694155}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LeftToeBaseEnd
+      parentName: MoCap_1113:LeftToeBase
+      position: {x: -0, y: 0, z: 0.09779791}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:ARIEL
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.065279916, y: 1.6879499, z: 0.022322718}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LFHD
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.051985383, y: 1.6047418, z: 0.08195286}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LBHD
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.050046638, y: 1.6220564, z: -0.047252093}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RFHD
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.11979817, y: 1.6021528, z: 0.0827177}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RBHD
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.107060716, y: 1.6081659, z: -0.055985197}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:C7
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.030260641, y: 1.4438462, z: -0.098628156}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:T10
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.03870591, y: 1.1755223, z: -0.14944766}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LT10
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.071576744, y: 1.1695063, z: -0.12517782}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RT10
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.15052736, y: 1.174446, z: -0.13223773}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:CLAV
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.034549367, y: 1.3703532, z: 0.063749395}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:STRN
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.032100882, y: 1.1605458, z: 0.12639047}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LFSH
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.09571781, y: 1.3833591, z: 0.044301298}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LTSH
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.09115211, y: 1.4356573, z: -0.03179537}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LBSH
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.09605563, y: 1.3977249, z: -0.11664634}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LUPA
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.31241804, y: 1.3305415, z: -0.047341198}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LELB
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.40377596, y: 1.3179413, z: -0.02117105}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LBEL
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.40109402, y: 1.232469, z: -0.02994396}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LFRM
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.5469056, y: 1.2859569, z: 0.02933206}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LIWR
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.62656283, y: 1.26652, z: 0.09520011}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LOWR
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.6439266, y: 1.2469962, z: 0.0315729}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LIHAND
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.69836974, y: 1.2664887, z: 0.09787317}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LOHAND
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.702089, y: 1.2249023, z: 0.03744249}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LTHM6
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.7345122, y: 1.2279447, z: 0.1390588}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LIDX6
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.78650886, y: 1.237675, z: 0.10639176}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LMID6
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.8015229, y: 1.2275941, z: 0.09238478}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LRNG6
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.78869694, y: 1.2207459, z: 0.06524094}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LPNK6
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.76943076, y: 1.2091784, z: 0.05395092}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RFSH
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.15709805, y: 1.3846263, z: 0.035434064}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RTSH
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.15234876, y: 1.432206, z: -0.040051088}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RBSH
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.16255641, y: 1.3945735, z: -0.12163443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RUPA
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.33048305, y: 1.3676977, z: -0.07449904}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RELB
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.48155725, y: 1.3544394, z: -0.042073417}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RBEL
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.4874314, y: 1.2619352, z: -0.029386286}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RFRM
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.56778044, y: 1.3465335, z: -0.025239872}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RIWR
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.70931077, y: 1.3297502, z: 0.034413736}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:ROWR
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.7073444, y: 1.2992259, z: -0.024595503}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RIHAND
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.7965072, y: 1.3143241, z: 0.029363248}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:ROHAND
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.7776795, y: 1.2713783, z: -0.023949701}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RTHM6
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.8357723, y: 1.2786494, z: 0.069190405}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RIDX6
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.88314426, y: 1.2628258, z: 0.023498543}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RMID6
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.8913502, y: 1.2558992, z: 0.008704224}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RRNG6
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.87674403, y: 1.2457138, z: -0.012239486}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RPNK6
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.8489621, y: 1.2382828, z: -0.021469424}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LFWT
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.11982545, y: 0.9438921, z: 0.08542357}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LMWT
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.16358222, y: 0.82476234, z: 0.031304017}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LBWT
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.11422768, y: 0.96219075, z: -0.09175601}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RFWT
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.18777418, y: 0.94486046, z: 0.0963934}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RMWT
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.2339618, y: 0.8249779, z: 0.0246856}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RBWT
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.19723116, y: 0.96639377, z: -0.075970165}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LTHI
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.15201887, y: 0.6596522, z: 0.020506091}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LKNE
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.1166083, y: 0.45149454, z: -0.020351684}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LKNU
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.06198799, y: 0.4252728, z: 0.05010599}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LSHN
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.1287152, y: 0.35507637, z: -0.04378978}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LANK
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.108669326, y: 0.04739678, z: -0.078618914}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LHEL
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.023869092, y: 0.05160992, z: -0.15097032}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LMT5
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.11138307, y: 0.045035966, z: 0.029552784}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LMT1
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.0354445, y: 0.048907228, z: 0.0525712}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:LTOE
+      parentName: Body_1111_10(Clone)
+      position: {x: -0.09091355, y: 0.033087425, z: 0.14013314}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RTHI
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.19031724, y: 0.55119705, z: 0.009694591}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RKNE
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.16957761, y: 0.44030434, z: -0.013491184}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RKNU
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.11084108, y: 0.42582706, z: 0.056689065}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RSHN
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.16059527, y: 0.20608865, z: -0.048869424}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RANK
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.13964333, y: 0.039819892, z: -0.094012514}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RHEL
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.051963985, y: 0.06387174, z: -0.15015326}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RMT5
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.15659872, y: 0.039814565, z: 0.021398535}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RMT1
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.079081126, y: 0.04349626, z: 0.048615642}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_1113:RTOE
+      parentName: Body_1111_10(Clone)
+      position: {x: 0.14480668, y: 0.03129543, z: 0.13273306}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
